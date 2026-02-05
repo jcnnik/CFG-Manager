@@ -2,7 +2,7 @@
 
 A PowerShell utility to manage Control Flow Guard (CFG) settings for games to fix stuttering and performance issues on Windows.
 
-![CFG Manager Interface](https://imgur.com/a/19midab)
+![CFG Manager Interface](https://i.imgur.com/SlNupqY.png)
 
 ## 🎮 What Does This Do?
 
