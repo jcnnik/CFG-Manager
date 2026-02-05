@@ -1,0 +1,7 @@
+PioneerGame.exe                      # ARC Raiders
+Discovery.exe                        # THE FINALS
+FFSIgnite-Win64-Shipping.exe         # Firefighting Simulator: Ignite
+Marvel-Win64-Shipping.exe            # Marvel Rivals
+ReadyOrNot-Win64-Shipping.exe        # Ready or Not
+GenshinImpact.exe                    # Genshin Impact
+DeadByDaylight-Win64-Shipping.exe    # Dead by Daylight
